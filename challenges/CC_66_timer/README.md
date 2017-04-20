@@ -10,3 +10,10 @@ Included features:
 - neater code
 - more ding.mp3
 ***
+
+### By: [cmoihub](https://github.com/cmoihub)
+[Repository](https://github.com/cmoihub/giarc_javascript/tree/master/p5)
+
+Included features:
+- timer is based on hours, minutes and seconds
+***
